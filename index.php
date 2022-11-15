@@ -1,21 +1,24 @@
+
+<!-- landing_page_php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Appora</title>
+    <title>Mobile Landing Page</title>
     <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="shortcut icon" href="images/fav-icon.png" type="image/x-icon">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" href="css/slick.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/venobox.min.css">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="font/flaticon.css">
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/media.css">
+    <link rel="shortcut icon" href="./assets/images/fav-icon.png" type="image/x-icon">
+    <link rel="stylesheet" href="./assets/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="./assets/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="./assets/css/slick.css">
+    <link rel="stylesheet" href="./assets/css/animate.css">
+    <link rel="stylesheet" href="./assets/css/venobox.min.css">
+    <link rel="stylesheet" href="./assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="./assets/font/flaticon.css">
+    <link rel="stylesheet" href="./assets/css/style.css">
+    <link rel="stylesheet" href="./assets/css/media.css">
 </head>
 <body>
     <!--Preloader part start-->
@@ -60,7 +63,7 @@
     <nav class="navbar navbar-expand-lg">
         <div class="container">
           <a class="navbar-brand" href="#">
-              <img src="images/logo.png" alt="logo" class="img-fluid">
+              <img src="./assets/images/logo.png" alt="logo" class="img-fluid">
           </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <i class="fa fa-bars"></i>
@@ -112,14 +115,14 @@
                       <div class="col-xl-3 col-lg-4 ms-auto col-md-5">
                             <div class="main-banner-slider">
                               <div class="banner-right-phone text-end">
-                                <img src="images/banner-shape.png" alt="banner-shape" class="w-100 img-fluid">
+                                <img src="./assets/images/banner-shape.png" alt="banner-shape" class="w-100 img-fluid">
                               </div>
                               <div class="screen-banner-slider">
                                 <div class="screen-inner">
-                                  <img src="images/ban-screen1.png" alt="screen1" class="w-100 img-fluid">
+                                  <img src="./assets/images/ban-screen1.png" alt="screen1" class="w-100 img-fluid">
                                 </div>
                                 <div class="screen-inner">
-                                  <img src="images/ban-screen2.png" alt="screen1" class="w-100 img-fluid">
+                                  <img src="./assets/images/ban-screen2.png" alt="screen1" class="w-100 img-fluid">
                                 </div>
                               </div>
                             </div>
@@ -283,12 +286,12 @@
             <div class="screen-slider">
               <div class="screenshot-frame d-none d-lg-block"></div>
               <div class="screen-main owl-carousel owl-theme">
-                <img src="images/screen1.png" alt="screen1" class="img-fluid">
-                <img src="images/screen2.png" alt="screen2" class="img-fluid">
-                <img src="images/screen3.png" alt="screen3" class="img-fluid">
-                <img src="images/screen4.png" alt="screen4" class="img-fluid">
-                <img src="images/screen2.png" alt="screen2" class="img-fluid">
-                <img src="images/screen4.png" alt="screen1" class="img-fluid">
+                <img src="./assets/images/screen1.png" alt="screen1" class="img-fluid">
+                <img src="./assets/images/screen2.png" alt="screen2" class="img-fluid">
+                <img src="./assets/images/screen3.png" alt="screen3" class="img-fluid">
+                <img src="./assets/images/screen4.png" alt="screen4" class="img-fluid">
+                <img src="./assets/images/screen2.png" alt="screen2" class="img-fluid">
+                <img src="./assets/images/screen4.png" alt="screen1" class="img-fluid">
             </div>
             </div>
           </div>
@@ -313,16 +316,16 @@
                 <div class="col-lg-4 col-md-4">
                   <div class="peoples-image-main">
                     <div class="inner-people-images">
-                      <img src="images/people-1.jpg" alt="p-1" class="w-100 img-fluid">
+                      <img src="./assets/images/people-1.jpg" alt="p-1" class="w-100 img-fluid">
                     </div>
                     <div class="inner-people-images">
-                      <img src="images/people-2.jpg" alt="p-2" class="w-100 img-fluid">
+                      <img src="./assets/images/people-2.jpg" alt="p-2" class="w-100 img-fluid">
                     </div>
                     <div class="inner-people-images">
-                      <img src="images/people-3.jpg" alt="p-3" class="w-100 img-fluid">
+                      <img src="./assets/images/people-3.jpg" alt="p-3" class="w-100 img-fluid">
                     </div>
                     <div class="inner-people-images">
-                      <img src="images/people-4.jpg" alt="p-4" class="w-100 img-fluid">
+                      <img src="./assets/images/people-4.jpg" alt="p-4" class="w-100 img-fluid">
                     </div>
                   </div>
                 </div>
@@ -504,7 +507,7 @@
           </div>
           <div class="col-lg-5">
             <div class="communication-right wow slideInRight">
-              <img src="images/right-mobile-sample.png" alt="mobile-sample" class="w-100 img-fluid">
+              <img src="./assets/images/right-mobile-sample.png" alt="mobile-sample" class="w-100 img-fluid">
             </div>
           </div>
         </div>
@@ -526,7 +529,7 @@
           <div class="row align-items-md-center">
             <div class="col-lg-3 col-md-6">
               <div class="phone-left">
-                <img src="images/left.png" alt="left-phone" class="w-100 img-fluid">
+                <img src="./assets/images/left.png" alt="left-phone" class="w-100 img-fluid">
               </div>
             </div>
             <div class="col-lg-6 col-md-6 offset-lg-3">
@@ -607,7 +610,7 @@
           <div class="col-lg-3">
             <div class="inner-team">
               <div class="sub-team position-relative">
-                <img src="images/team1.jpg" alt="team1" class="w-100 img-fluid">
+                <img src="./assets/images/team1.jpg" alt="team1" class="w-100 img-fluid">
                 <div class="team-overlay position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center">
                   <div class="team-social">
                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -626,7 +629,7 @@
           <div class="col-lg-3">
             <div class="inner-team">
               <div class="sub-team position-relative">
-                <img src="images/team2.jpg" alt="team2" class="w-100 img-fluid">
+                <img src="./assets/images/team2.jpg" alt="team2" class="w-100 img-fluid">
                 <div class="team-overlay position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center">
                   <div class="team-social">
                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -645,7 +648,7 @@
           <div class="col-lg-3">
             <div class="inner-team">
               <div class="sub-team position-relative">
-                <img src="images/team3.jpg" alt="team3" class="w-100 img-fluid">
+                <img src="./assets/images/team3.jpg" alt="team3" class="w-100 img-fluid">
                 <div class="team-overlay position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center">
                   <div class="team-social">
                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -664,7 +667,7 @@
           <div class="col-lg-3">
             <div class="inner-team">
               <div class="sub-team position-relative">
-                <img src="images/team4.jpg" alt="team4" class="w-100 img-fluid">
+                <img src="./assets/images/team4.jpg" alt="team4" class="w-100 img-fluid">
                 <div class="team-overlay position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center">
                   <div class="team-social">
                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -683,7 +686,7 @@
           <div class="col-lg-3">
             <div class="inner-team">
               <div class="sub-team position-relative">
-                <img src="images/team5.jpg" alt="team5" class="w-100 img-fluid">
+                <img src="./assets/images/team5.jpg" alt="team5" class="w-100 img-fluid">
                 <div class="team-overlay position-absolute top-0 start-0 w-100 h-100 d-flex justify-content-center align-items-center">
                   <div class="team-social">
                     <a href="#"><i class="fa fa-facebook"></i></a>
@@ -811,7 +814,7 @@
           <div class="col-lg-3 col-md-6">
             <div class="footer-items">
               <div class="footer-header-icon">
-                <img src="images/footer-logo.png" alt="footer-logo" class="img-fluid">
+                <img src="./assets/images/footer-logo.png" alt="footer-logo" class="img-fluid">
               </div>
               <p class="pt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti alias recusandae atque temporibus officia perspiciatis ipsam accusamus deleniti fugiat sit.</p>
               <div class="footer-social-icons">
@@ -898,14 +901,14 @@
       </div>
     </div>
     <!------Copyright part end------>
-    <script src="js/jquery-1.12.4.min.js"></script>
-    <script src="js/slick.min.js"></script>
-    <script src="js/venobox.min.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="./assets/js/jquery-1.12.4.min.js"></script>
+    <script src="./assets/js/slick.min.js"></script>
+    <script src="./assets/js/venobox.min.js"></script>
+    <script src="./assets/js/waypoints.min.js"></script>
+    <script src="./assets/js/owl.carousel.min.js"></script>
+    <script src="./assets/js/wow.min.js"></script>
+    <script src="./assets/js/jquery.counterup.min.js"></script>
+    <script src="./assets/js/bootstrap.bundle.min.js"></script>
+    <script src="./assets/js/custom.js"></script>
 </body>
 </html>
